@@ -12,5 +12,3 @@ implements the following options:<br>
 Features Implemented:<br>
 --Configuration file.<br>
 --Logging.<br>
-
-Please feel free to add code to this.<br>
