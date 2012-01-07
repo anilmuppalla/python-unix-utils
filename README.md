@@ -1,16 +1,16 @@
 An attempt to emulate Unix grep using Python, as part of a learning exercise.
 
---Help--
+--Help-- <br>
 ./grep.py -h
 
-implements the following options:
-  -n : Print the pattern match along with line numbers.
-  -r : Performs pattern match recursively.
-  -i : Performs the match ignoring the case of the pattern.
-  --binary : Peforms the pattern match in Binary files.
+implements the following options:<br>
+  -n : Print the pattern match along with line numbers.<br>
+  -r : Performs pattern match recursively.<br>
+  -i : Performs the match ignoring the case of the pattern.<br>
+  --binary : Peforms the pattern match in Binary files.<br>
 
-Features Implemented:
---Configuration file.
---Logging.
+Features Implemented:<br>
+--Configuration file.<br>
+--Logging.<br>
 
-Please feel free to add code to this.
+Please feel free to add code to this.<br>
