@@ -9,4 +9,8 @@ implements the following options:
   -i : Performs the match ignoring the case of the pattern.
   --binary : Peforms the pattern match in Binary files.
 
+Features Implemented:
+--Configuration file.
+--Logging.
+
 Please feel free to add code to this.
