@@ -1,4 +1,4 @@
-#Emulate the Unix Grep functionality using Python:
+#Emulate the Unix Grep functionality using Python
 
 ##Features include
 *  -n : Print the pattern match along with line numbers.
@@ -6,6 +6,14 @@
 *  -i : Performs the match ignoring the case of the pattern.
 *  --binary : Peforms the pattern match in Binary files.
 
-Features Implemented:
+#Others
 * Configuration file.
 * Logging.
+
+Usage
+
+* For help
+```
+./grep.py -h
+
+```
