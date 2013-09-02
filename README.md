@@ -16,5 +16,4 @@ Usage
 
 ```shell
 ./grep.py -h
-
 ```
