@@ -13,7 +13,8 @@
 Usage
 
 * For help
-```
+
+```shell
 ./grep.py -h
 
 ```
